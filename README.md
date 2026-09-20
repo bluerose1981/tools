@@ -41,6 +41,7 @@
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
+* [Toolio.it - Favicon generator](https://toolio.it/genera-favicon/) - Free favicon generator, converts an image into all standard favicon sizes.
 
 ### CDN
 
@@ -192,4 +193,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [Toolio.it](https://toolio.it/) - Free hub of 155+ Italian web tools: calculators, unit/file converters, QR code and password generators, text utilities — no sign-up, mostly client-side.
 
